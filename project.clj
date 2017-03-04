@@ -1,4 +1,4 @@
-(defproject morse/lein-template "0.1.0"
+(defproject morse/lein-template "0.1.1"
   :description "Lein template to generate Morse project"
   :url "https://github.com/Otann/morse"
 
