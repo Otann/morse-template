@@ -36,7 +36,7 @@
 (defn -main
   [& args]
   (when (str/blank? token)
-    (println "Please provde token in TELEGRAM_TOKEN environment variable!")
+    (println "Please provide token in TELEGRAM_TOKEN environment variable!")
     (System/exit 1))
 
   (println "Starting the {{raw-name}}")
